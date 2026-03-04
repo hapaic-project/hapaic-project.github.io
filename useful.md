@@ -1,6 +1,6 @@
 ### 내용
 [vllm](#vllm)  
-[tenstorrent](#tenstorrnt)    
+[tenstorrent](#tenstorrent)    
 [hyperaccel](#hyperaccel)  
 
 <hr>
