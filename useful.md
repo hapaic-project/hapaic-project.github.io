@@ -12,6 +12,7 @@
 * 관련 글
   * Inside vLLM: Anatomy of a High-Throughput LLM Inference System
     * (원문) https://www.aleksagordic.com/blog/vllm (August 29, 2025)
+      *  https://vllm.ai/blog/anatomy-of-vllm (동일 내용)
     * (한글 번역/요약) https://rosettalens.com/s/ko/vllm
 <br> <br>
  
