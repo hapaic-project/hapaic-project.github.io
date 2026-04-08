@@ -21,9 +21,11 @@
 * tt-inference-server : https://github.com/tenstorrent/tt-inference-server
   * tt-vllm-plugin : https://github.com/tenstorrent/tt-inference-server/tree/main/tt-vllm-plugin
 * tt-xla : https://github.com/tenstorrent/tt-xla/tree/main
-  * TTModelRunner::load_model()
-    * https://github.com/tenstorrent/tt-xla/blob/main/integrations/vllm_plugin/vllm_tt/model_runner.py#L1413
-  * https://github.com/tenstorrent/tt-xla/blob/main/integrations/vllm_plugin/vllm_tt/worker.py
+  * vllm-plugin : https://github.com/tenstorrent/tt-xla/tree/main/integrations/vllm_plugin
+   * TTModelRunner::load_model()
+     * https://github.com/tenstorrent/tt-xla/blob/main/integrations/vllm_plugin/vllm_tt/model_runner.py#L1413
+   * TTWorker
+     * https://github.com/tenstorrent/tt-xla/blob/main/integrations/vllm_plugin/vllm_tt/worker.py
 * discord : https://discord.gg/tenstorrent
 <br> <br>
 
