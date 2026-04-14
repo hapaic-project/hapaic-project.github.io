@@ -14,6 +14,10 @@
     * (원문) https://www.aleksagordic.com/blog/vllm (August 29, 2025)
       *  https://vllm.ai/blog/anatomy-of-vllm (동일 내용)
     * (한글 번역/요약) https://rosettalens.com/s/ko/vllm
+  * vllm architecture overview
+    * https://docs.vllm.ai/en/latest/design/arch_overview/
+  * vLLM paper : Efficient Memory Management for Large Language Model Serving with PagedAttention(SOSP 2023) 
+    * https://arxiv.org/abs/2309.06180 
 <br> <br>
  
 ### tenstorrent
