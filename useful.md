@@ -25,7 +25,7 @@
       * 필요한 GPU VRAM 크기 계산하는 법
   * KV Cache Explained: The Complete Guide to KV Cache in LLM Inference
     * https://luv-bansal.medium.com/the-evolution-of-kv-cache-from-simple-buffers-to-distributed-memory-systems-df51cb8ce26f
-      * KV Cache의 진화에 대한 내
+      * KV Cache의 진화에 대한 내용 : the six eras of KV cache management
 
 
 <br> <br>
