@@ -20,6 +20,12 @@
     * (한글 번역/요약) https://rosettalens.com/s/ko/vllm
   * Understanding vLLM Scheduling: Token Budgets, Chunked Prefill, and Policies(Mar 8. 2026)
     * https://audreywongkg.medium.com/understanding-vllm-scheduling-token-budgets-chunked-prefill-and-policies-2c879e3980e3
+  * Understanding LLM GPU Inference: VRAM, KV Cache, and vLLM Explained with Mistral-7B(Mar 11.2026)
+    * https://medium.com/@sabu.for.ai/understanding-llm-gpu-inference-vram-kv-cache-and-vllm-explained-with-mistral-7b-ea73c562f312
+      * 필요한 GPU VRAM 크기 계산하는 법
+  * KV Cache Explained: The Complete Guide to KV Cache in LLM Inference
+    * https://luv-bansal.medium.com/the-evolution-of-kv-cache-from-simple-buffers-to-distributed-memory-systems-df51cb8ce26f
+      * KV Cache의 진화에 대한 내
 
 
 <br> <br>
