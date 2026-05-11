@@ -10,14 +10,18 @@
 * blog : https://blog.vllm.ai/
 * code :  https://github.com/vllm-project/vllm
 * 관련 글
+  * vLLM paper : Efficient Memory Management for Large Language Model Serving with PagedAttention(SOSP 2023) 
+    * https://arxiv.org/abs/2309.06180
+  * vllm architecture overview
+    * https://docs.vllm.ai/en/latest/design/arch_overview/
   * Inside vLLM: Anatomy of a High-Throughput LLM Inference System
     * (원문) https://www.aleksagordic.com/blog/vllm (August 29, 2025)
       *  https://vllm.ai/blog/anatomy-of-vllm (동일 내용)
     * (한글 번역/요약) https://rosettalens.com/s/ko/vllm
-  * vllm architecture overview
-    * https://docs.vllm.ai/en/latest/design/arch_overview/
-  * vLLM paper : Efficient Memory Management for Large Language Model Serving with PagedAttention(SOSP 2023) 
-    * https://arxiv.org/abs/2309.06180 
+  * Understanding vLLM Scheduling: Token Budgets, Chunked Prefill, and Policies(Mar 8. 2026)
+    * https://audreywongkg.medium.com/understanding-vllm-scheduling-token-budgets-chunked-prefill-and-policies-2c879e3980e3
+
+
 <br> <br>
  
 ### tenstorrent
