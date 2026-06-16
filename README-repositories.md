@@ -1,4 +1,4 @@
-저장소에 대한 설명
+## 저장소에 대한 설명
 
 |저장소 이름|설명|
 |:--:|:--|
@@ -24,7 +24,7 @@
 |vLLM-Benchmark-dataset|벤치마크 데이터 셑|
 |demo-repository|데모|
 
-vLLM V0-Based GPU–NPU Disaggregated Prefill(w/RDMA)
+## vLLM V0-Based GPU–NPU Disaggregated Prefill(w/RDMA)
 | 구성요소 | version | 저장소 | branch |
 | --- | --- | --- | --- |
 | tt-metal (NPU) | v0.65 | https://github.com/hapaic-project/tt-metal | `dev-0.65` |
@@ -33,9 +33,9 @@ vLLM V0-Based GPU–NPU Disaggregated Prefill(w/RDMA)
 | vllm_v0_tt_plugin (NPU) | v0.10.0 base | https://github.com/hapaic-project/vllm_v0_tt_plugin ||
 | vllm_v0_decode (NPU) | v0.10.0 base | https://github.com/hapaic-project/vllm_v0_decode ||
 | vllm_v0_prefill (GPU) | v0.10.0 base | https://github.com/hapaic-project/vllm_v0_prefill ||
-| mooncake-transfer-engine (NPU, GPU) | v0.3.6 | https://github.com/hapaic-project/mooncake-transfer-engine | main |
+| mooncake-transfer-engine (NPU, GPU) | v0.3.6 | https://github.com/hapaic-project/mooncake-transfer-engine | `main` |
 
-vLLM V1-Based GPU–NPU Disaggregated Prefill(w/RDMA)
+## vLLM V1-Based GPU–NPU Disaggregated Prefill(w/RDMA)
 *작성 기준(2026.6.15) single request만 가능
 | 구성요소 | version | 저장소 | branch |
 | --- | --- | --- | --- |
