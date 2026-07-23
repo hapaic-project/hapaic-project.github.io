@@ -37,11 +37,14 @@
   * tt-vllm-plugin : https://github.com/tenstorrent/tt-inference-server/tree/main/tt-vllm-plugin
 * tt-xla : https://github.com/tenstorrent/tt-xla/tree/main
   * vllm-plugin : https://github.com/tenstorrent/tt-xla/tree/main/integrations/vllm_plugin
-   * TTModelRunner::load_model()
-     * https://github.com/tenstorrent/tt-xla/blob/main/integrations/vllm_plugin/vllm_tt/model_runner.py#L1413
-   * TTWorker
-     * https://github.com/tenstorrent/tt-xla/blob/main/integrations/vllm_plugin/vllm_tt/worker.py
+    * TTModelRunner::load_model()
+      * https://github.com/tenstorrent/tt-xla/blob/main/integrations/vllm_plugin/vllm_tt/model_runner.py#L1413
+    * TTWorker
+      * https://github.com/tenstorrent/tt-xla/blob/main/integrations/vllm_plugin/vllm_tt/worker.py
 * discord : https://discord.gg/tenstorrent
+* TT 개발자 가이드(한국어) : https://www.wavefive.ai/TT-Guide
+  * VRAM Calculator : Can I run this model on my hardware?
+    * https://www.cv-learn.com/vram-calculator/?m=qwen3.5-9b&hw=tt-p150a&q=q4_k_m&fw=tt-metal&n=1&ctx=8192&seq=1
 <br> <br>
 
 ### hyperaccel
